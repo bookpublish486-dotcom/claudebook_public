@@ -1,5 +1,5 @@
-寄件者：淡水人 <umbrella.lover@tamsui-rain.com.tw>
-收件者：contact@everything.com.tw
+寄件者：淡水人 <umbrella.lover@tamsui-rain.example.com>
+收件者：contact@everything.example.com
 主旨：傘被偷了，聽說你們有找傘服務？
 
 你好
@@ -13,4 +13,4 @@
 麻煩報個價，淡水明天又要下雨了，急。
 
 淡水人
-0987-262-626
+0987-UMBRELLA
